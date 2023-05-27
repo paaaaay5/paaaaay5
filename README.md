@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Ippei Goto](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paaaaay5&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paaaaay5)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paaaaay5)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paaaaay5)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paaaaay5)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **paaaaay5/paaaaay5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
